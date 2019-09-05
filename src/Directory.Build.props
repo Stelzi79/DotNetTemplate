@@ -4,6 +4,7 @@
         <Nullable>enable</Nullable>
         <LocalPackageSource>$(SolutionDir)..\.nupkg</LocalPackageSource>
         <MinVerVerbosity>normal</MinVerVerbosity>
+        <MinVerDefaultPreReleasePhase>preview</MinVerDefaultPreReleasePhase>
         <CodeAnalysisRuleSet>../Default.ruleset</CodeAnalysisRuleSet>
     </PropertyGroup>
 
